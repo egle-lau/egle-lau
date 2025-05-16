@@ -1,5 +1,5 @@
-- 🌲 Hi, I’m Egle [egg-le] . A humble designer who turned into Information developer, ready to bring sctructure and clarity to design, data, and documentation.
-- 👀 Currently exploring fintech and creative coding.
+- 🌲 Hi, I’m Egle [egg-le] . A humble designer who turned into Information developer, ready to bring sctructure and clarity to design, data, and documentation
+- 👀 Currently exploring fintech and creative coding
 - 🎨 Check out my portfolio at www.eglelau.com
 - ⚡ Carpe diem 
 
